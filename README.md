@@ -1,4 +1,4 @@
-# document-processing-automation-demo
+# Document-processing-automation-demo
 AI-assisted document processing and packaging automation demo using PowerShell.
  
 A fictional project inspired by real-world document management workflows.
